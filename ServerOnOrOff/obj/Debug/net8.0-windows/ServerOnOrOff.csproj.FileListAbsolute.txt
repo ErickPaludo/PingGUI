@@ -1,0 +1,17 @@
+C:\Users\Erick\Documents\projects\ServerOnOrOff\bin\Debug\net8.0-windows\ServerOnOrOff.exe
+C:\Users\Erick\Documents\projects\ServerOnOrOff\bin\Debug\net8.0-windows\ServerOnOrOff.deps.json
+C:\Users\Erick\Documents\projects\ServerOnOrOff\bin\Debug\net8.0-windows\ServerOnOrOff.runtimeconfig.json
+C:\Users\Erick\Documents\projects\ServerOnOrOff\bin\Debug\net8.0-windows\ServerOnOrOff.dll
+C:\Users\Erick\Documents\projects\ServerOnOrOff\bin\Debug\net8.0-windows\ServerOnOrOff.pdb
+C:\Users\Erick\Documents\projects\ServerOnOrOff\obj\Debug\net8.0-windows\ServerOnOrOff.csproj.GenerateResource.cache
+C:\Users\Erick\Documents\projects\ServerOnOrOff\obj\Debug\net8.0-windows\ServerOnOrOff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\Documents\projects\ServerOnOrOff\obj\Debug\net8.0-windows\ServerOnOrOff.AssemblyInfoInputs.cache
+C:\Users\Erick\Documents\projects\ServerOnOrOff\obj\Debug\net8.0-windows\ServerOnOrOff.AssemblyInfo.cs
+C:\Users\Erick\Documents\projects\ServerOnOrOff\obj\Debug\net8.0-windows\ServerOnOrOff.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Documents\projects\ServerOnOrOff\obj\Debug\net8.0-windows\ServerOnOrOff.dll
+C:\Users\Erick\Documents\projects\ServerOnOrOff\obj\Debug\net8.0-windows\refint\ServerOnOrOff.dll
+C:\Users\Erick\Documents\projects\ServerOnOrOff\obj\Debug\net8.0-windows\ServerOnOrOff.pdb
+C:\Users\Erick\Documents\projects\ServerOnOrOff\obj\Debug\net8.0-windows\ServerOnOrOff.genruntimeconfig.cache
+C:\Users\Erick\Documents\projects\ServerOnOrOff\obj\Debug\net8.0-windows\ref\ServerOnOrOff.dll
+C:\Users\Erick\Documents\projects\ServerOnOrOff\obj\Debug\net8.0-windows\ServerOnOrOff.Properties.Resources.resources
+C:\Users\Erick\Documents\projects\ServerOnOrOff\obj\Debug\net8.0-windows\ServerOnOrOff.PinHome.resources
