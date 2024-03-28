@@ -52,7 +52,7 @@
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 36F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label1.ForeColor = SystemColors.ButtonHighlight;
-            label1.Location = new Point(108, 73);
+            label1.Location = new Point(91, 73);
             label1.Name = "label1";
             label1.Size = new Size(218, 65);
             label1.TabIndex = 1;
@@ -63,7 +63,7 @@
             labelIp.AutoSize = true;
             labelIp.Font = new Font("Segoe UI", 27.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             labelIp.ForeColor = SystemColors.ButtonHighlight;
-            labelIp.Location = new Point(309, 85);
+            labelIp.Location = new Point(293, 85);
             labelIp.Name = "labelIp";
             labelIp.Size = new Size(42, 50);
             labelIp.TabIndex = 2;
@@ -71,28 +71,36 @@
             // 
             // button1
             // 
-            button1.Location = new Point(520, 12);
+            button1.Anchor = AnchorStyles.Right;
+            button1.BackColor = Color.Transparent;
+            button1.BackgroundImage = (Image)resources.GetObject("button1.BackgroundImage");
+            button1.Cursor = Cursors.Hand;
+            button1.FlatAppearance.BorderSize = 0;
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.ForeColor = Color.Transparent;
+            button1.Location = new Point(524, 12);
             button1.Name = "button1";
-            button1.Size = new Size(28, 25);
+            button1.Size = new Size(28, 28);
             button1.TabIndex = 3;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
+            button1.UseVisualStyleBackColor = false;
             button1.Click += Configuracao;
             // 
-            // Form1
+            // PinHome
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(64, 64, 64);
-            ClientSize = new Size(560, 225);
-            Controls.Add(button1);
+            ClientSize = new Size(564, 225);
             Controls.Add(labelIp);
-            Controls.Add(label1);
+            Controls.Add(button1);
             Controls.Add(pictureOnOff);
+            Controls.Add(label1);
             MaximizeBox = false;
+            MaximumSize = new Size(680, 264);
             MdiChildrenMinimizedAnchorBottom = false;
             MinimizeBox = false;
-            Name = "Form1";
+            MinimumSize = new Size(580, 264);
+            Name = "PinHome";
             ShowIcon = false;
             StartPosition = FormStartPosition.CenterScreen;
             ((System.ComponentModel.ISupportInitialize)pictureOnOff).EndInit();
